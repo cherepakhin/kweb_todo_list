@@ -27,3 +27,7 @@ export JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64/
 Открыть http://localhost:7659
 
 ![screen.png](doc/screen.png)
+
+Ссылки:
+
+[https://v.perm.ru/index.php/component/content/article/kweb-example](https://v.perm.ru/index.php/component/content/article/kweb-example)
