@@ -30,4 +30,4 @@ export JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64/
 
 
 Ссылки:
-[https://v.perm.ru/index.php/component/content/article/kweb-example?catid=13](https://v.perm.ru/index.php/component/content/article/kweb-example?catid=13)
+- [https://v.perm.ru/index.php/component/content/article/kweb-example?catid=13](https://v.perm.ru/index.php/component/content/article/kweb-example?catid=13)
