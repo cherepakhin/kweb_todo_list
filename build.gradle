@@ -1,0 +1,27 @@
+plugins {
+    id 'application'
+}
+
+group 'kweb.demos.todo'
+version '0.1'
+mainClassName = "kweb.demos.todo.TodoAppKt"
+
+java.sourceCompatibility = JavaVersion.VERSION_11
+
+java.sourceSets["main"].java {
+    srcDir("build/classes/java/main")
+}
+
+repositories {
+    mavenCentral()
+    mavenLocal()
+    maven { url 'https://jitpack.io' }
+}
+
+dependencies {
+    implementation 'com.github.kwebio:kweb-core:0.7.21'
+    implementation 'org.slf4j:slf4j-simple:1.7.30'
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
+}
+
+

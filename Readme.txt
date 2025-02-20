@@ -1,0 +1,5 @@
+gradle wrapper
+./gradlew run
+
+echo $JAVA_HOME
+/usr/lib/jvm/java-17-openjdk-amd64
